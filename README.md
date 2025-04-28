@@ -83,11 +83,11 @@ GitHub: @SAMshashank
 
 # Install client dependencies
 cd frontend
-npm install
+npm install 
 
 # Install server dependencies
 cd ../backend
-npm install
+npm install 
 
 ## Setup .env
 
@@ -95,6 +95,13 @@ PORT=5000
 MONGODB_URI=your-mongodb-connection-string
 JWT_SECRET=your-secret-key
 
-node -e "console.log(require('crypto').randomBytes(64).toString('hex'))" 
+Make your secret: node -e "console.log(require('crypto').randomBytes(64).toString('hex'))" 
 
+
+# Run code on localhost
+npm run dev -> frontend 
+npm start -.> backend
+
+
+////////////////////////////////////////////END//////////////////////////////////////END///////////////////////////////////////////////END/////////////////////////
 
