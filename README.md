@@ -82,11 +82,11 @@ GitHub: @SAMshashank
 
 
 # Install client dependencies
-cd client
+cd frontend
 npm install
 
 # Install server dependencies
-cd ../server
+cd ../backend
 npm install
 
 ## Setup .env
