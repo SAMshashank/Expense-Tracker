@@ -61,7 +61,7 @@ GitHub: @SAMshashank
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack in details
 
 **Frontend**
 - React.js (with Vite)
